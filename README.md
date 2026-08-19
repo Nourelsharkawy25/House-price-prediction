@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction App
+#  House Price Prediction App
 
 An end-to-end machine learning project that predicts Indian house prices using property features. Includes a Jupyter notebook for EDA & model training, a FastAPI backend serving predictions, and a React frontend for user interaction.
 
@@ -286,17 +286,31 @@ curl -X POST http://localhost:8000/predict \
 <table>
   <tr>
     <td width="50%">
-      <img src="house-price-project/photos/test-1.png" alt="Test 1">
+      <img src="https://github.com/Nourelsharkawy25/House-price-prediction/blob/main/photos/test-1.png" alt="Test 1">
     </td>
     <td width="50%">
-      <img src="house-price-project/photos/test-1-data.png" alt="Test 1 Data">
+      <img src="https://github.com/Nourelsharkawy25/House-price-prediction/blob/main/photos/test-1-data.png" alt="Test 1 Data">
     </td>
   </tr>
 </table>
 
 ### Test Case 2
 
-
+<table>
+  <tr>
+    <td colspan="2" width="100%">
+      <img src="photos/2-0.jpeg" alt="Test 1">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="photos/2-1.png" alt="Test 2">
+    </td>
+    <td width="50%">
+      <img src="photos/2-2.png" alt="Test 1 Data">
+    </td>
+  </tr>
+</table>
 ---
 
 ## License
