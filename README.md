@@ -72,7 +72,7 @@ house-price-project/
 
 ## Dataset
 
-**Source**: [House Prices in India](https://www.kaggle.com/datasets/mohamedafsal007/house-prices-in-india) on Kaggle
+**Source**: [House Prices in India](https://www.kaggle.com/datasets/juhibhojani/house-price) on Kaggle
 
 The raw CSV (`~100 MB`, 187 531 rows × 21 columns) is **not committed** to this repo.
 
