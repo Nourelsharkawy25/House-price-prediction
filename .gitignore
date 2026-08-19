@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+.env
+*.log
+*.pkl
+notebooks/data/
+
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+.pytest_cache/
