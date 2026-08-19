@@ -282,7 +282,20 @@ curl -X POST http://localhost:8000/predict \
 
 ## Screenshots
 
-_TODO: add screenshots of the running app._
+### Test Case 1
+<table>
+  <tr>
+    <td width="50%">
+      <img src="house-price-project/photos/test-1.png" alt="Test 1">
+    </td>
+    <td width="50%">
+      <img src="house-price-project/photos/test-1-data.png" alt="Test 1 Data">
+    </td>
+  </tr>
+</table>
+
+### Test Case 2
+
 
 ---
 
