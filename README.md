@@ -283,18 +283,6 @@ curl -X POST http://localhost:8000/predict \
 ## Screenshots
 
 ### Test Case 1
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github.com/Nourelsharkawy25/House-price-prediction/blob/main/photos/test-1.png" alt="Test 1">
-    </td>
-    <td width="50%">
-      <img src="https://github.com/Nourelsharkawy25/House-price-prediction/blob/main/photos/test-1-data.png" alt="Test 1 Data">
-    </td>
-  </tr>
-</table>
-
-### Test Case 2
 
 <table>
   <tr>
@@ -311,6 +299,20 @@ curl -X POST http://localhost:8000/predict \
     </td>
   </tr>
 </table>
+
+### Test Case 2
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/Nourelsharkawy25/House-price-prediction/blob/main/photos/test-1.png" alt="Test 1">
+    </td>
+    <td width="50%">
+      <img src="https://github.com/Nourelsharkawy25/House-price-prediction/blob/main/photos/test-1-data.png" alt="Test 1 Data">
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## License
